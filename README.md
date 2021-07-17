@@ -2,7 +2,9 @@
 
 ### Trustless, decentralized investment pools on Ethereum
 
-_Available live on the Kovan Ethereum testnet. Use https://qfihub.com to get started or to read more about how it works._
+Factory contract live on Ethereum mainnet: 0xA1EDD4e98e353cAD59ab080Ca25E1b856BC5E30b
+
+_Use https://qfihub.com to get started or to read more about how it works._
 
 ## Getting Started (Local)
 
